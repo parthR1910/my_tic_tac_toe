@@ -39,7 +39,7 @@ dependencies:
   flutter_screenutil:
   responsive_builder:
   flutter_riverpod:
-
+  confetti:
 dev_dependencies:
   flutter_test:
     sdk: flutter
